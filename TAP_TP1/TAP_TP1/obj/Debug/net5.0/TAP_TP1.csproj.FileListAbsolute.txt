@@ -1,0 +1,16 @@
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.csprojAssemblyReference.cache
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.AssemblyInfoInputs.cache
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.AssemblyInfo.cs
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.csproj.CoreCompileInputs.cache
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.exe
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.deps.json
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.runtimeconfig.json
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.runtimeconfig.dev.json
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.dll
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\ref\TAP_TP1.dll
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\bin\Debug\net5.0\TAP_TP1.pdb
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.dll
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\ref\TAP_TP1.dll
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.pdb
+C:\Users\l0rd\source\repos\TAP_TP1\TAP_TP1\obj\Debug\net5.0\TAP_TP1.genruntimeconfig.cache
